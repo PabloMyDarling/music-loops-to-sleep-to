@@ -54,5 +54,11 @@ To download MLTST, you need to go into the Github page of MLTST and do the follo
 **Step 1:** Click on *Code* at the top-right corner of the repository's files.
 ![Step 1](https://i.imgur.com/LCneMKb.jpeg)
 
+
 **Step 2:** Click on *Download ZIP* in the *Code* menu.
 ![Step 2](https://i.imgur.com/co2MPXY.jpeg)
+
+
+**Step 3:** A compressed version of the project should be downloading. After it has been downloaded, extract the ZIP file to where you want it to be.
+
+Now all that's left to do is to run it with ``python3 /path/to/mltst/script.py`` or ``python /path/to/mltst/script.py``
